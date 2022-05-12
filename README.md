@@ -1,5 +1,3 @@
-# portfolio-115.github.io
-My future in 7 years
 <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
   <h3 class="margin">Arutyunyan Amaliya</h3>
